@@ -20,9 +20,5 @@ The purpose of summary statistics in data analysis and statistics is multifacete
 ### Data Visualization
      Display a heatmap that helps you visualize the correlations between variables in your dataset
      
-## Usage
-
-To access the full summary statistics and data analysis, please refer to the following resources:
-
 
 
