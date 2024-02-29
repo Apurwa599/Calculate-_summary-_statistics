@@ -4,7 +4,7 @@ Welcome to the Online Internship Projects repository! This repository contains t
 
 In this project, provides a summary of key statistics(mean,meadian,mode,standard deviation) and insights derived from the analysis of 'Titanic Passengers'. 
 
-These statistics help in summarizing and understanding the data quickly. 
+These statistics help in summarizing and understanding the data quickly.
 
 ## purpose
 The purpose of summary statistics in data analysis and statistics is multifaceted and essential for understanding and interpreting data effectively.
