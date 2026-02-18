@@ -3,10 +3,10 @@
 ## Project Overview
 This project is part of my data analytics internship at TechnoHacks EduTech. In this project, I analyze the Titanic Passengers dataset to calculate summary statistics  such as mean, median, mode, standard deviation, minimum, and maximum values. These statistics help in understanding the dataset quickly and effectively.
 
-1. Dataset:
+1.Dataset:
    The Titanic Passengers dataset contains information about passengers such as age, gender, ticket price, passenger class, and survival status.
 
-2. Purpose:
+2.Purpose:
 The main purpose of this project is to understand the distribution and patterns in the Titanic dataset using summary statistics and data visualization techniques.
 
 3.Tools and Technologies Used:
@@ -31,6 +31,20 @@ The main purpose of this project is to understand the distribution and patterns 
 - Standard Deviation: Measure of data spread
 - Minimum Value: Based on survival feature
 - Maximum Value: Maximum values for each feature
+
+6.Data Visualization:
+A heatmap is used to visualize the correlation between different numerical variables in the Titanic dataset.
+
+7.Key Insights:
+- Survival rate varies across passenger classes
+- Ticket price shows correlation with survival
+- Age distribution is uneven among passengers
+
+8.Learning Outcome:
+- Gained hands-on experience in data analysis
+- Learned how to calculate and interpret summary statistics
+- Improved data visualization and analytical skills
+
 
 
 
