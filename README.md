@@ -17,3 +17,11 @@ The main purpose of this project is to understand the distribution and patterns 
 - Seaborn
 - Jupyter Notebook
 
+4.Steps Performed:
+. Loaded the Titanic dataset into Jupyter Notebook
+. Performed basic data cleaning and exploration
+. Calculated summary statistics such as mean, median, mode, and standard deviation
+. Found minimum and maximum values for important features
+. Created a correlation heatmap to understand relationships between variables
+
+
