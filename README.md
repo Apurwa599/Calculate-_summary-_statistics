@@ -9,3 +9,11 @@ The Titanic Passengers dataset contains information about passengers such as age
 2.Purpose:
 The main purpose of this project is to understand the distribution and patterns in the Titanic dataset using summary statistics and data visualization techniques.
 
+3.Tools and Technologies Used:
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
