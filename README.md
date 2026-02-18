@@ -1,4 +1,4 @@
-# Calculate-_summary-_statistics
+## Calculate-_summary-_statistics
 
 Welcome to the Online Internship Projects repository! This repository contains the projects completed during my data analytics internship at TechnoHacks EduTech. 
 
@@ -6,7 +6,7 @@ In this project, provides a summary of key statistics(mean,meadian,mode,standard
 
 These statistics help in summarizing and understanding the data quickly.
 
-## purpose
+## Purpose
 The purpose of summary statistics in data analysis and statistics is multifaceted and essential for understanding and interpreting data effectively.
 
 ### Summary Statistics
