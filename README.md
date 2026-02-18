@@ -1,8 +1,6 @@
-## Calculate-_summary-_statistics
+## Calculate Summary Statistics of Titanic Passengers
+This project is part of my data analytics internship at TechnoHacks EduTech. In this project, I analyze the Titanic Passengers dataset to calculate summary statistics such as mean, median, mode, standard deviation, minimum, and maximum values. These statistics help in understanding the dataset quickly and effectively.
 
-Welcome to the Online Internship Projects repository! This repository contains the projects completed during my data analytics internship at TechnoHacks EduTech. 
-
-In this project, provides a summary of key statistics(mean,meadian,mode,standard deviation) and insights derived from the analysis of 'Titanic Passengers'. 
 
 These statistics help in summarizing and understanding the data quickly.
 
