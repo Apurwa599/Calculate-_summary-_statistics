@@ -1,5 +1,4 @@
 ## Calculate Summary Statistics of Titanic Passengers
-
 ### Project Overview
 This project is part of my data analytics internship at TechnoHacks EduTech. In this project, I analyze the Titanic Passengers dataset to calculate summary statistics  such as mean, median, mode, standard deviation, minimum, and maximum values. These statistics help in understanding the dataset quickly and effectively.
 
@@ -32,8 +31,7 @@ The main purpose of this project is to understand the distribution and patterns 
 - Minimum Value: Based on survival feature
 - Maximum Value: Maximum values for each feature
 
-6.Data Visualization:
-A heatmap is used to visualize the correlation between different numerical variables in the Titanic dataset.
+6.Data Visualization:- A heatmap is used to visualize the correlation between different numerical variables in the Titanic dataset.
 
 7.Key Insights:
 - Survival rate varies across passenger classes
@@ -43,8 +41,6 @@ A heatmap is used to visualize the correlation between different numerical varia
 8.Learning Outcome:
 - Gained hands-on experience in data analysis
 - Learned how to calculate and interpret summary statistics
-- Improved data visualization and analytical skills
-
-
+- Improved data visualization and analytical skills.
 
 
